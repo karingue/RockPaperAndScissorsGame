@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+img{
+    border: 1px solid black; 
+}
+
+#botao{
+    background: rgba(7, 186, 7, 0.86);
+    border:none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+    margin: auto;
+}
+
+#botao:hover{
+    background: rgb(3, 152, 3);
+}
+
+#area-resultado{
+    display: none;
+}
+
+
